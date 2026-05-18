@@ -1,0 +1,6 @@
+C:\Users\asus\Downloads\wews\bin\Debug\pickavatarbg.png
+C:\Users\asus\Downloads\wews\bin\Debug\CrosswordPuzzle.exe
+C:\Users\asus\Downloads\wews\bin\Debug\CrosswordPuzzle.pdb
+C:\Users\asus\Downloads\wews\obj\Debug\CrosswordPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\asus\Downloads\wews\obj\Debug\CrosswordPuzzle.exe
+C:\Users\asus\Downloads\wews\obj\Debug\CrosswordPuzzle.pdb
